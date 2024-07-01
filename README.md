@@ -11,6 +11,6 @@ How to run?
 2. cd sprint14
 3. npm install
 4. npm start
-  a. Leave terminal open
-  b. To stop the project press CTRL+C
+ - Leave terminal open
+ - To stop the project press CTRL+C
 5. Open http://localhost:3000 to see the project
